@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-def chessclock_single():
+def chessclock():
     print('[Für Start Enter drücken]')
     input()
     time_start = datetime.now()
