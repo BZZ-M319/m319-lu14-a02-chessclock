@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
 
+
 def chessclock():
     print('[Für Start Enter drücken]')
     input()
@@ -40,6 +41,7 @@ def chessclock_dual():
             print('Zeit Spieler A: ' + str(time_A))
             print('Zeit Spieler B: ' + str(time_B))
             print('Aktueller Spieler: ' + actual_player)
+
 
 if __name__ == '__main__':
     chessclock_dual()
