@@ -3,7 +3,7 @@
     {
       "name": "test_time_until_function_exists",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"test_time_until_function_exists\"",
+      "run": "pytest -v  -k \"test_chessclock_exists\"",
       "input": "",
       "output": "",
       "comparison": "included",
