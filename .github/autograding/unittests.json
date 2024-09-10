@@ -1,7 +1,7 @@
 [
   {
-    "name": "test_time_until_function_exists",
-    "function": "test_time_until_function_exists",
+    "name": "test_chessclock_exists",
+    "function": "test_chessclock_exists",
     "timeout": 10,
     "points": 1
   }
